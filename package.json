@@ -1,8 +1,20 @@
 {
-  "name": "nome-do-projeto",
+  "name": "aejunior.github.io",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "homepage": "https://aejunior.dev/",
+  "bugs": {
+    "url": "https://github.com/aejunior/aejunior.github.io/issues",
+    "email": "hello@aejunior.dev"
+  },
+  "author": {
+    "name": "Augusto Junior",
+    "email": "hello@aejunior.dev",
+    "url": "http://aejunior.dev/"
+  },
+  "repository": "github:aejunior/aejunior.github.io",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
